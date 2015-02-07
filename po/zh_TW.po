@@ -1,0 +1,74 @@
+# Chinese (Taiwan) translation for gimp-ruby.
+# Copyright (C) 2015 gimp-ruby's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gimp-ruby package.
+# tomoe_musashi <hkg.musashi@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-ruby master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gimp-"
+"ruby&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-01 06:32+0000\n"
+"PO-Revision-Date: 2015-01-31 06:30+0000\n"
+"Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) <chinese-l10n@googlegroups.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../ext/ruby-fu-console.c:127
+msgid "Ruby-Fu Console"
+msgstr "Ruby-Fu 訊息視窗"
+
+#: ../plug-ins/irbconsole.rb:25
+msgid "Starts an irb session in a console."
+msgstr "在訊息視窗裡啟動 irb 作業階段"
+
+#: ../plug-ins/irbconsole.rb:30
+msgid "Irb Console"
+msgstr "Irb 訊息視窗"
+
+#: ../plug-ins/irbconsole.rb:43
+msgid "Interactive Gimp-Ruby Console"
+msgstr "互動式 Gimp-Ruby 訊息視窗"
+
+#: ../plug-ins/irbconsole.rb:44
+msgid "Ruby version #{RUBY_VERSION}"
+msgstr "Ruby 版本 #{RUBY_VERSION}"
+
+#: ../plug-ins/sphere.rb:33 ../plug-ins/sphere.rb:34
+msgid "Simple sphere with a drop shadow"
+msgstr "附有陰影的簡單球體"
+
+#: ../plug-ins/sphere.rb:38
+msgid "Sphere"
+msgstr "球體"
+
+#: ../plug-ins/sphere.rb:41
+msgid "Radius (pixels)"
+msgstr "半徑(像素)"
+
+#: ../plug-ins/sphere.rb:42
+msgid "Lighting (degrees)"
+msgstr "燈光方向(度)"
+
+#: ../plug-ins/sphere.rb:43
+msgid "Shadow"
+msgstr "陰影"
+
+#: ../plug-ins/sphere.rb:44
+msgid "Background Color"
+msgstr "背景顏色"
+
+#: ../plug-ins/sphere.rb:45
+msgid "Sphere Color"
+msgstr "球體顏色"
+
+#: ../plug-ins/sphere.rb:47
+msgid "Sphere Image"
+msgstr "球體圖像"
+
+#: ../plug-ins/sphere.rb:68
+msgid "Sphere Layer"
+msgstr "球體圖層"
