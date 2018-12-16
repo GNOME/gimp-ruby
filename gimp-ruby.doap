@@ -12,7 +12,7 @@
   <download-page rdf:resource="http://download.gnome.org/sources/gimp-ruby/" />
   -->
   <bug-database rdf:resource="http://bugzilla.gnome.org/browse.cgi?product=gimp-ruby" />
-  <category rdf:resource="http://api.gnome.org/doap-extensions#bindings" />
+  <!-- <category rdf:resource="http://api.gnome.org/doap-extensions#bindings" /> -->
 
   <maintainer>
     <foaf:Person>
